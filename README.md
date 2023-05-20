@@ -1,3 +1,4 @@
-# liveries-for-other-aircraft
-Stratosphere Studios liveries for non-Stratosphere aircraft
+# Liveries for Other Aircraft
+Stratosphere Studios-brand liveries for non-Stratosphere aircraft
+
 By Matt726
